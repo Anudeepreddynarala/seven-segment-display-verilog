@@ -1,2 +1,3 @@
 # seven-segment-display-verilog
-This verilog code helps to divide the clock into required frequency.
+for seven segment display with common anode configuration
+
